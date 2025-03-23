@@ -1,0 +1,1867 @@
+[
+    {
+        "Month":1,
+        "France Inflation (%)":null,
+        "US Inflation (%)":null
+    },
+    {
+        "Month":2,
+        "France Inflation (%)":1.323986218,
+        "US Inflation (%)":-0.3401360544
+    },
+    {
+        "Month":3,
+        "France Inflation (%)":0.2305802178,
+        "US Inflation (%)":0.3412969283
+    },
+    {
+        "Month":4,
+        "France Inflation (%)":0.0,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":5,
+        "France Inflation (%)":0.1533800901,
+        "US Inflation (%)":0.3401360544
+    },
+    {
+        "Month":6,
+        "France Inflation (%)":-0.2297076261,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":7,
+        "France Inflation (%)":-0.076748896,
+        "US Inflation (%)":0.3389830508
+    },
+    {
+        "Month":8,
+        "France Inflation (%)":0.3840290269,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":9,
+        "France Inflation (%)":0.9181274702,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":10,
+        "France Inflation (%)":0.1516257408,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":11,
+        "France Inflation (%)":0.1514062375,
+        "US Inflation (%)":0.6756756757
+    },
+    {
+        "Month":12,
+        "France Inflation (%)":0.302344654,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":13,
+        "France Inflation (%)":0.2260924768,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":14,
+        "France Inflation (%)":0.0751808384,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":15,
+        "France Inflation (%)":0.0751243592,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":16,
+        "France Inflation (%)":-0.0750679649,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":17,
+        "France Inflation (%)":-0.0751243592,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":18,
+        "France Inflation (%)":-0.2255824518,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":19,
+        "France Inflation (%)":-0.2260724633,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":20,
+        "France Inflation (%)":0.7552756767,
+        "US Inflation (%)":0.6711409396
+    },
+    {
+        "Month":21,
+        "France Inflation (%)":0.5997429815,
+        "US Inflation (%)":-0.3333333333
+    },
+    {
+        "Month":22,
+        "France Inflation (%)":0.5215599898,
+        "US Inflation (%)":0.3344481605
+    },
+    {
+        "Month":23,
+        "France Inflation (%)":1.1119281263,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":24,
+        "France Inflation (%)":1.0263933901,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":25,
+        "France Inflation (%)":0.3629068006,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":26,
+        "France Inflation (%)":0.6506973609,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":27,
+        "France Inflation (%)":0.1018816627,
+        "US Inflation (%)":0.3333333333
+    },
+    {
+        "Month":28,
+        "France Inflation (%)":0.6103819247,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":29,
+        "France Inflation (%)":0.2022262888,
+        "US Inflation (%)":0.3322259136
+    },
+    {
+        "Month":30,
+        "France Inflation (%)":0.302679975,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":31,
+        "France Inflation (%)":0.4024182794,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":32,
+        "France Inflation (%)":0.4008053653,
+        "US Inflation (%)":0.3311258278
+    },
+    {
+        "Month":33,
+        "France Inflation (%)":-0.0997545869,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":34,
+        "France Inflation (%)":0.3996039522,
+        "US Inflation (%)":0.3300330033
+    },
+    {
+        "Month":35,
+        "France Inflation (%)":0.1990067373,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":36,
+        "France Inflation (%)":0.5957414348,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":37,
+        "France Inflation (%)":0.3948705666,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":38,
+        "France Inflation (%)":0.7866349434,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":39,
+        "France Inflation (%)":0.585371471,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":40,
+        "France Inflation (%)":0.291027838,
+        "US Inflation (%)":0.3289473684
+    },
+    {
+        "Month":41,
+        "France Inflation (%)":0.19342535,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":42,
+        "France Inflation (%)":0.3861038773,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":43,
+        "France Inflation (%)":0.6730379485,
+        "US Inflation (%)":0.3278688525
+    },
+    {
+        "Month":44,
+        "France Inflation (%)":0.3820475242,
+        "US Inflation (%)":0.3267973856
+    },
+    {
+        "Month":45,
+        "France Inflation (%)":0.3805934763,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":46,
+        "France Inflation (%)":0.6634688981,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":47,
+        "France Inflation (%)":0.1883257444,
+        "US Inflation (%)":0.325732899
+    },
+    {
+        "Month":48,
+        "France Inflation (%)":0.2820016394,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":49,
+        "France Inflation (%)":0.1874431525,
+        "US Inflation (%)":0.3246753247
+    },
+    {
+        "Month":50,
+        "France Inflation (%)":0.374184921,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":51,
+        "France Inflation (%)":0.093153847,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":52,
+        "France Inflation (%)":0.0931543746,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":53,
+        "France Inflation (%)":0.092980536,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":54,
+        "France Inflation (%)":0.0929812235,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":55,
+        "France Inflation (%)":0.1857027173,
+        "US Inflation (%)":0.3236245955
+    },
+    {
+        "Month":56,
+        "France Inflation (%)":0.2779943429,
+        "US Inflation (%)":0.3225806452
+    },
+    {
+        "Month":57,
+        "France Inflation (%)":0.1848446439,
+        "US Inflation (%)":-0.3215434084
+    },
+    {
+        "Month":58,
+        "France Inflation (%)":0.4613022065,
+        "US Inflation (%)":0.3225806452
+    },
+    {
+        "Month":59,
+        "France Inflation (%)":0.275441571,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":60,
+        "France Inflation (%)":0.0,
+        "US Inflation (%)":0.3215434084
+    },
+    {
+        "Month":61,
+        "France Inflation (%)":0.0,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":62,
+        "France Inflation (%)":0.5494557343,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":63,
+        "France Inflation (%)":0.0911181943,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":64,
+        "France Inflation (%)":0.2729352559,
+        "US Inflation (%)":0.3205128205
+    },
+    {
+        "Month":65,
+        "France Inflation (%)":0.1814899003,
+        "US Inflation (%)":0.3194888179
+    },
+    {
+        "Month":66,
+        "France Inflation (%)":0.2716992403,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":67,
+        "France Inflation (%)":1.626032084,
+        "US Inflation (%)":0.6369426752
+    },
+    {
+        "Month":68,
+        "France Inflation (%)":-0.8888974008,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":69,
+        "France Inflation (%)":-0.2690188876,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":70,
+        "France Inflation (%)":0.2697445514,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":71,
+        "France Inflation (%)":0.1793739304,
+        "US Inflation (%)":0.3164556962
+    },
+    {
+        "Month":72,
+        "France Inflation (%)":0.1790527564,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":73,
+        "France Inflation (%)":0.3574654611,
+        "US Inflation (%)":0.3154574132
+    },
+    {
+        "Month":74,
+        "France Inflation (%)":0.356192197,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":75,
+        "France Inflation (%)":0.1774639856,
+        "US Inflation (%)":0.6289308176
+    },
+    {
+        "Month":76,
+        "France Inflation (%)":0.1771496089,
+        "US Inflation (%)":0.3125
+    },
+    {
+        "Month":77,
+        "France Inflation (%)":0.3536726879,
+        "US Inflation (%)":0.6230529595
+    },
+    {
+        "Month":78,
+        "France Inflation (%)":0.3524262525,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":79,
+        "France Inflation (%)":-0.0877560202,
+        "US Inflation (%)":0.3095975232
+    },
+    {
+        "Month":80,
+        "France Inflation (%)":0.3514970316,
+        "US Inflation (%)":0.3086419753
+    },
+    {
+        "Month":81,
+        "France Inflation (%)":0.0875254496,
+        "US Inflation (%)":0.6153846154
+    },
+    {
+        "Month":82,
+        "France Inflation (%)":0.2625106443,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":83,
+        "France Inflation (%)":0.174521639,
+        "US Inflation (%)":0.6116207951
+    },
+    {
+        "Month":84,
+        "France Inflation (%)":0.2612855871,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":85,
+        "France Inflation (%)":0.2606860528,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":86,
+        "France Inflation (%)":0.4332388439,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":87,
+        "France Inflation (%)":0.0862416658,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":88,
+        "France Inflation (%)":0.2586635742,
+        "US Inflation (%)":0.3039513678
+    },
+    {
+        "Month":89,
+        "France Inflation (%)":0.0859450451,
+        "US Inflation (%)":0.303030303
+    },
+    {
+        "Month":90,
+        "France Inflation (%)":0.1718229652,
+        "US Inflation (%)":0.3021148036
+    },
+    {
+        "Month":91,
+        "France Inflation (%)":0.0,
+        "US Inflation (%)":0.3012048193
+    },
+    {
+        "Month":92,
+        "France Inflation (%)":0.257332531,
+        "US Inflation (%)":0.3003003003
+    },
+    {
+        "Month":93,
+        "France Inflation (%)":0.3421759506,
+        "US Inflation (%)":0.2994011976
+    },
+    {
+        "Month":94,
+        "France Inflation (%)":0.3410090994,
+        "US Inflation (%)":0.2985074627
+    },
+    {
+        "Month":95,
+        "France Inflation (%)":0.5097752691,
+        "US Inflation (%)":0.2976190476
+    },
+    {
+        "Month":96,
+        "France Inflation (%)":0.7607450186,
+        "US Inflation (%)":0.296735905
+    },
+    {
+        "Month":97,
+        "France Inflation (%)":0.0839327029,
+        "US Inflation (%)":0.2958579882
+    },
+    {
+        "Month":98,
+        "France Inflation (%)":1.0058766439,
+        "US Inflation (%)":0.5899705015
+    },
+    {
+        "Month":99,
+        "France Inflation (%)":0.0829494234,
+        "US Inflation (%)":0.293255132
+    },
+    {
+        "Month":100,
+        "France Inflation (%)":0.0829583507,
+        "US Inflation (%)":0.2923976608
+    },
+    {
+        "Month":101,
+        "France Inflation (%)":0.2485135367,
+        "US Inflation (%)":0.2915451895
+    },
+    {
+        "Month":102,
+        "France Inflation (%)":0.3305815836,
+        "US Inflation (%)":0.2906976744
+    },
+    {
+        "Month":103,
+        "France Inflation (%)":0.3294923426,
+        "US Inflation (%)":0.5797101449
+    },
+    {
+        "Month":104,
+        "France Inflation (%)":0.3284102559,
+        "US Inflation (%)":0.5763688761
+    },
+    {
+        "Month":105,
+        "France Inflation (%)":0.4910028801,
+        "US Inflation (%)":0.2865329513
+    },
+    {
+        "Month":106,
+        "France Inflation (%)":0.6514717617,
+        "US Inflation (%)":0.2857142857
+    },
+    {
+        "Month":107,
+        "France Inflation (%)":1.0517516056,
+        "US Inflation (%)":0.5698005698
+    },
+    {
+        "Month":108,
+        "France Inflation (%)":0.3202592075,
+        "US Inflation (%)":0.283286119
+    },
+    {
+        "Month":109,
+        "France Inflation (%)":0.2393902352,
+        "US Inflation (%)":0.2824858757
+    },
+    {
+        "Month":110,
+        "France Inflation (%)":1.1146604891,
+        "US Inflation (%)":0.2816901408
+    },
+    {
+        "Month":111,
+        "France Inflation (%)":0.3149636501,
+        "US Inflation (%)":0.5617977528
+    },
+    {
+        "Month":112,
+        "France Inflation (%)":0.4709621157,
+        "US Inflation (%)":0.8379888268
+    },
+    {
+        "Month":113,
+        "France Inflation (%)":0.4687544598,
+        "US Inflation (%)":0.5540166205
+    },
+    {
+        "Month":114,
+        "France Inflation (%)":0.4665674042,
+        "US Inflation (%)":0.2754820937
+    },
+    {
+        "Month":115,
+        "France Inflation (%)":0.3096004414,
+        "US Inflation (%)":0.5494505495
+    },
+    {
+        "Month":116,
+        "France Inflation (%)":0.4629673133,
+        "US Inflation (%)":0.5464480874
+    },
+    {
+        "Month":117,
+        "France Inflation (%)":0.2304528762,
+        "US Inflation (%)":0.5434782609
+    },
+    {
+        "Month":118,
+        "France Inflation (%)":0.5363673887,
+        "US Inflation (%)":0.2702702703
+    },
+    {
+        "Month":119,
+        "France Inflation (%)":0.6097617574,
+        "US Inflation (%)":0.539083558
+    },
+    {
+        "Month":120,
+        "France Inflation (%)":0.4545496481,
+        "US Inflation (%)":0.5361930295
+    },
+    {
+        "Month":121,
+        "France Inflation (%)":0.3016618957,
+        "US Inflation (%)":0.5333333333
+    },
+    {
+        "Month":122,
+        "France Inflation (%)":0.827040025,
+        "US Inflation (%)":0.2652519894
+    },
+    {
+        "Month":123,
+        "France Inflation (%)":0.3064608971,
+        "US Inflation (%)":0.5291005291
+    },
+    {
+        "Month":124,
+        "France Inflation (%)":0.3054549405,
+        "US Inflation (%)":0.5263157895
+    },
+    {
+        "Month":125,
+        "France Inflation (%)":0.5076106888,
+        "US Inflation (%)":0.7853403141
+    },
+    {
+        "Month":126,
+        "France Inflation (%)":0.404051429,
+        "US Inflation (%)":0.2597402597
+    },
+    {
+        "Month":127,
+        "France Inflation (%)":0.4024254233,
+        "US Inflation (%)":0.518134715
+    },
+    {
+        "Month":128,
+        "France Inflation (%)":0.2004404894,
+        "US Inflation (%)":0.5154639175
+    },
+    {
+        "Month":129,
+        "France Inflation (%)":0.3999422792,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":130,
+        "France Inflation (%)":0.3984172298,
+        "US Inflation (%)":0.5128205128
+    },
+    {
+        "Month":131,
+        "France Inflation (%)":0.3968361662,
+        "US Inflation (%)":0.5102040816
+    },
+    {
+        "Month":132,
+        "France Inflation (%)":0.3952676014,
+        "US Inflation (%)":0.5076142132
+    },
+    {
+        "Month":133,
+        "France Inflation (%)":0.295300369,
+        "US Inflation (%)":0.5050505051
+    },
+    {
+        "Month":134,
+        "France Inflation (%)":0.5887947125,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":135,
+        "France Inflation (%)":0.4878012979,
+        "US Inflation (%)":0.2512562814
+    },
+    {
+        "Month":136,
+        "France Inflation (%)":0.3883599577,
+        "US Inflation (%)":0.2506265664
+    },
+    {
+        "Month":137,
+        "France Inflation (%)":0.5802532664,
+        "US Inflation (%)":0.25
+    },
+    {
+        "Month":138,
+        "France Inflation (%)":0.6731115099,
+        "US Inflation (%)":0.4987531172
+    },
+    {
+        "Month":139,
+        "France Inflation (%)":0.3819887846,
+        "US Inflation (%)":0.7444168734
+    },
+    {
+        "Month":140,
+        "France Inflation (%)":0.4757340496,
+        "US Inflation (%)":0.2463054187
+    },
+    {
+        "Month":141,
+        "France Inflation (%)":0.378798182,
+        "US Inflation (%)":0.2457002457
+    },
+    {
+        "Month":142,
+        "France Inflation (%)":0.4716947655,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":143,
+        "France Inflation (%)":0.5634276746,
+        "US Inflation (%)":0.2450980392
+    },
+    {
+        "Month":144,
+        "France Inflation (%)":0.3734288276,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":145,
+        "France Inflation (%)":0.4651130242,
+        "US Inflation (%)":0.488997555
+    },
+    {
+        "Month":146,
+        "France Inflation (%)":0.2778011724,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":147,
+        "France Inflation (%)":0.5540000025,
+        "US Inflation (%)":0.4866180049
+    },
+    {
+        "Month":148,
+        "France Inflation (%)":0.4591335934,
+        "US Inflation (%)":0.2421307506
+    },
+    {
+        "Month":149,
+        "France Inflation (%)":0.3656406557,
+        "US Inflation (%)":0.2415458937
+    },
+    {
+        "Month":150,
+        "France Inflation (%)":0.5464940358,
+        "US Inflation (%)":0.2409638554
+    },
+    {
+        "Month":151,
+        "France Inflation (%)":0.5434617641,
+        "US Inflation (%)":0.2403846154
+    },
+    {
+        "Month":152,
+        "France Inflation (%)":0.8108171386,
+        "US Inflation (%)":0.479616307
+    },
+    {
+        "Month":153,
+        "France Inflation (%)":0.5361768082,
+        "US Inflation (%)":0.2386634845
+    },
+    {
+        "Month":154,
+        "France Inflation (%)":0.6221933669,
+        "US Inflation (%)":0.2380952381
+    },
+    {
+        "Month":155,
+        "France Inflation (%)":0.8833860352,
+        "US Inflation (%)":0.4750593824
+    },
+    {
+        "Month":156,
+        "France Inflation (%)":0.6129913932,
+        "US Inflation (%)":0.2364066194
+    },
+    {
+        "Month":157,
+        "France Inflation (%)":0.5221775154,
+        "US Inflation (%)":0.2358490566
+    },
+    {
+        "Month":158,
+        "France Inflation (%)":0.0,
+        "US Inflation (%)":0.2352941176
+    },
+    {
+        "Month":159,
+        "France Inflation (%)":0.2597620989,
+        "US Inflation (%)":0.7042253521
+    },
+    {
+        "Month":160,
+        "France Inflation (%)":0.5181191089,
+        "US Inflation (%)":0.9324009324
+    },
+    {
+        "Month":161,
+        "France Inflation (%)":0.6873037985,
+        "US Inflation (%)":0.6928406467
+    },
+    {
+        "Month":162,
+        "France Inflation (%)":0.9385479815,
+        "US Inflation (%)":0.6880733945
+    },
+    {
+        "Month":163,
+        "France Inflation (%)":0.7607837923,
+        "US Inflation (%)":0.6833712984
+    },
+    {
+        "Month":164,
+        "France Inflation (%)":0.8389201098,
+        "US Inflation (%)":0.2262443439
+    },
+    {
+        "Month":165,
+        "France Inflation (%)":0.6655753916,
+        "US Inflation (%)":1.8058690745
+    },
+    {
+        "Month":166,
+        "France Inflation (%)":0.9090729254,
+        "US Inflation (%)":0.22172949
+    },
+    {
+        "Month":167,
+        "France Inflation (%)":1.0647158359,
+        "US Inflation (%)":0.8849557522
+    },
+    {
+        "Month":168,
+        "France Inflation (%)":0.8913924432,
+        "US Inflation (%)":0.6578947368
+    },
+    {
+        "Month":169,
+        "France Inflation (%)":0.642587665,
+        "US Inflation (%)":0.6535947712
+    },
+    {
+        "Month":170,
+        "France Inflation (%)":1.6759544797,
+        "US Inflation (%)":0.8658008658
+    },
+    {
+        "Month":171,
+        "France Inflation (%)":1.3344026591,
+        "US Inflation (%)":1.2875536481
+    },
+    {
+        "Month":172,
+        "France Inflation (%)":1.1618815138,
+        "US Inflation (%)":1.2711864407
+    },
+    {
+        "Month":173,
+        "France Inflation (%)":1.6079411535,
+        "US Inflation (%)":0.4184100418
+    },
+    {
+        "Month":174,
+        "France Inflation (%)":1.2057599828,
+        "US Inflation (%)":1.25
+    },
+    {
+        "Month":175,
+        "France Inflation (%)":1.116894267,
+        "US Inflation (%)":0.8230452675
+    },
+    {
+        "Month":176,
+        "France Inflation (%)":1.2518620806,
+        "US Inflation (%)":0.8163265306
+    },
+    {
+        "Month":177,
+        "France Inflation (%)":0.7999840839,
+        "US Inflation (%)":1.2145748988
+    },
+    {
+        "Month":178,
+        "France Inflation (%)":1.0822431788,
+        "US Inflation (%)":1.2
+    },
+    {
+        "Month":179,
+        "France Inflation (%)":1.2134395089,
+        "US Inflation (%)":0.9881422925
+    },
+    {
+        "Month":180,
+        "France Inflation (%)":0.916748456,
+        "US Inflation (%)":0.782778865
+    },
+    {
+        "Month":181,
+        "France Inflation (%)":0.838597167,
+        "US Inflation (%)":0.7766990291
+    },
+    {
+        "Month":182,
+        "France Inflation (%)":1.1087835372,
+        "US Inflation (%)":0.3853564547
+    },
+    {
+        "Month":183,
+        "France Inflation (%)":0.7539731832,
+        "US Inflation (%)":0.7677543186
+    },
+    {
+        "Month":184,
+        "France Inflation (%)":0.8163018447,
+        "US Inflation (%)":0.380952381
+    },
+    {
+        "Month":185,
+        "France Inflation (%)":0.8772051264,
+        "US Inflation (%)":0.3795066414
+    },
+    {
+        "Month":186,
+        "France Inflation (%)":0.7357714186,
+        "US Inflation (%)":0.5671077505
+    },
+    {
+        "Month":187,
+        "France Inflation (%)":0.7303973636,
+        "US Inflation (%)":0.7518796992
+    },
+    {
+        "Month":188,
+        "France Inflation (%)":0.7251463254,
+        "US Inflation (%)":1.1194029851
+    },
+    {
+        "Month":189,
+        "France Inflation (%)":0.654445458,
+        "US Inflation (%)":0.184501845
+    },
+    {
+        "Month":190,
+        "France Inflation (%)":0.8452651987,
+        "US Inflation (%)":0.5524861878
+    },
+    {
+        "Month":191,
+        "France Inflation (%)":0.7736710218,
+        "US Inflation (%)":0.5494505495
+    },
+    {
+        "Month":192,
+        "France Inflation (%)":0.6397906744,
+        "US Inflation (%)":0.7285974499
+    },
+    {
+        "Month":193,
+        "France Inflation (%)":0.5721597334,
+        "US Inflation (%)":0.3616636528
+    },
+    {
+        "Month":194,
+        "France Inflation (%)":1.0746073542,
+        "US Inflation (%)":0.1801801802
+    },
+    {
+        "Month":195,
+        "France Inflation (%)":0.6879163414,
+        "US Inflation (%)":0.3597122302
+    },
+    {
+        "Month":196,
+        "France Inflation (%)":0.8695674336,
+        "US Inflation (%)":0.1792114695
+    },
+    {
+        "Month":197,
+        "France Inflation (%)":0.8620711437,
+        "US Inflation (%)":0.3577817531
+    },
+    {
+        "Month":198,
+        "France Inflation (%)":0.6715374425,
+        "US Inflation (%)":0.7130124777
+    },
+    {
+        "Month":199,
+        "France Inflation (%)":0.4245215527,
+        "US Inflation (%)":0.5309734513
+    },
+    {
+        "Month":200,
+        "France Inflation (%)":0.9661682128,
+        "US Inflation (%)":0.5281690141
+    },
+    {
+        "Month":201,
+        "France Inflation (%)":0.7177227243,
+        "US Inflation (%)":0.5253940455
+    },
+    {
+        "Month":202,
+        "France Inflation (%)":1.0688513432,
+        "US Inflation (%)":0.3484320557
+    },
+    {
+        "Month":203,
+        "France Inflation (%)":0.9400960026,
+        "US Inflation (%)":0.5208333333
+    },
+    {
+        "Month":204,
+        "France Inflation (%)":0.8149030404,
+        "US Inflation (%)":0.1727115717
+    },
+    {
+        "Month":205,
+        "France Inflation (%)":0.3464098819,
+        "US Inflation (%)":0.3448275862
+    },
+    {
+        "Month":206,
+        "France Inflation (%)":0.2876849136,
+        "US Inflation (%)":0.5154639175
+    },
+    {
+        "Month":207,
+        "France Inflation (%)":0.6884867299,
+        "US Inflation (%)":1.0256410256
+    },
+    {
+        "Month":208,
+        "France Inflation (%)":0.9116663679,
+        "US Inflation (%)":0.6768189509
+    },
+    {
+        "Month":209,
+        "France Inflation (%)":1.2987073168,
+        "US Inflation (%)":0.8403361345
+    },
+    {
+        "Month":210,
+        "France Inflation (%)":0.9475809372,
+        "US Inflation (%)":0.5
+    },
+    {
+        "Month":211,
+        "France Inflation (%)":0.7730556259,
+        "US Inflation (%)":0.6633499171
+    },
+    {
+        "Month":212,
+        "France Inflation (%)":0.8767360656,
+        "US Inflation (%)":0.4942339374
+    },
+    {
+        "Month":213,
+        "France Inflation (%)":0.5431790574,
+        "US Inflation (%)":0.3278688525
+    },
+    {
+        "Month":214,
+        "France Inflation (%)":0.8643839099,
+        "US Inflation (%)":0.3267973856
+    },
+    {
+        "Month":215,
+        "France Inflation (%)":0.803422191,
+        "US Inflation (%)":0.325732899
+    },
+    {
+        "Month":216,
+        "France Inflation (%)":0.3719638938,
+        "US Inflation (%)":0.487012987
+    },
+    {
+        "Month":217,
+        "France Inflation (%)":0.2646883766,
+        "US Inflation (%)":0.3231017771
+    },
+    {
+        "Month":218,
+        "France Inflation (%)":0.4751885498,
+        "US Inflation (%)":0.6441223833
+    },
+    {
+        "Month":219,
+        "France Inflation (%)":0.7356822985,
+        "US Inflation (%)":0.64
+    },
+    {
+        "Month":220,
+        "France Inflation (%)":0.8867815079,
+        "US Inflation (%)":0.7949125596
+    },
+    {
+        "Month":221,
+        "France Inflation (%)":1.0858530048,
+        "US Inflation (%)":0.7886435331
+    },
+    {
+        "Month":222,
+        "France Inflation (%)":0.9718668645,
+        "US Inflation (%)":0.9389671362
+    },
+    {
+        "Month":223,
+        "France Inflation (%)":0.7598728383,
+        "US Inflation (%)":1.0852713178
+    },
+    {
+        "Month":224,
+        "France Inflation (%)":1.2066345819,
+        "US Inflation (%)":0.7668711656
+    },
+    {
+        "Month":225,
+        "France Inflation (%)":0.5961072626,
+        "US Inflation (%)":0.4566210046
+    },
+    {
+        "Month":226,
+        "France Inflation (%)":0.6419842646,
+        "US Inflation (%)":0.7575757576
+    },
+    {
+        "Month":227,
+        "France Inflation (%)":0.9322865719,
+        "US Inflation (%)":0.9022556391
+    },
+    {
+        "Month":228,
+        "France Inflation (%)":0.5347488685,
+        "US Inflation (%)":0.4470938897
+    },
+    {
+        "Month":229,
+        "France Inflation (%)":0.4835886424,
+        "US Inflation (%)":0.4451038576
+    },
+    {
+        "Month":230,
+        "France Inflation (%)":0.9143405538,
+        "US Inflation (%)":0.8862629247
+    },
+    {
+        "Month":231,
+        "France Inflation (%)":0.667622012,
+        "US Inflation (%)":1.1713030747
+    },
+    {
+        "Month":232,
+        "France Inflation (%)":0.9000472021,
+        "US Inflation (%)":1.013024602
+    },
+    {
+        "Month":233,
+        "France Inflation (%)":0.9859017906,
+        "US Inflation (%)":1.1461318052
+    },
+    {
+        "Month":234,
+        "France Inflation (%)":1.0692750734,
+        "US Inflation (%)":1.2747875354
+    },
+    {
+        "Month":235,
+        "France Inflation (%)":0.8279419638,
+        "US Inflation (%)":1.1188811189
+    },
+    {
+        "Month":236,
+        "France Inflation (%)":1.3230208117,
+        "US Inflation (%)":1.1065006916
+    },
+    {
+        "Month":237,
+        "France Inflation (%)":1.0355434987,
+        "US Inflation (%)":0.9575923393
+    },
+    {
+        "Month":238,
+        "France Inflation (%)":0.8467024259,
+        "US Inflation (%)":1.0840108401
+    },
+    {
+        "Month":239,
+        "France Inflation (%)":1.193116191,
+        "US Inflation (%)":0.8042895442
+    },
+    {
+        "Month":240,
+        "France Inflation (%)":0.6550171392,
+        "US Inflation (%)":0.9308510638
+    },
+    {
+        "Month":241,
+        "France Inflation (%)":0.7809173702,
+        "US Inflation (%)":1.0540184453
+    },
+    {
+        "Month":242,
+        "France Inflation (%)":1.9371363214,
+        "US Inflation (%)":1.4341590613
+    },
+    {
+        "Month":243,
+        "France Inflation (%)":1.0615985957,
+        "US Inflation (%)":1.4138817481
+    },
+    {
+        "Month":244,
+        "France Inflation (%)":1.155468909,
+        "US Inflation (%)":1.5209125475
+    },
+    {
+        "Month":245,
+        "France Inflation (%)":1.2460925416,
+        "US Inflation (%)":1.1235955056
+    },
+    {
+        "Month":246,
+        "France Inflation (%)":0.8205227226,
+        "US Inflation (%)":0.987654321
+    },
+    {
+        "Month":247,
+        "France Inflation (%)":0.7120797272,
+        "US Inflation (%)":1.1002444988
+    },
+    {
+        "Month":248,
+        "France Inflation (%)":1.4141449672,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":249,
+        "France Inflation (%)":0.9960416301,
+        "US Inflation (%)":0.7255139057
+    },
+    {
+        "Month":250,
+        "France Inflation (%)":0.887564439,
+        "US Inflation (%)":0.8403361345
+    },
+    {
+        "Month":251,
+        "France Inflation (%)":1.0752485143,
+        "US Inflation (%)":0.9523809524
+    },
+    {
+        "Month":252,
+        "France Inflation (%)":0.6770106078,
+        "US Inflation (%)":0.8254716981
+    },
+    {
+        "Month":253,
+        "France Inflation (%)":0.9605870777,
+        "US Inflation (%)":0.9356725146
+    },
+    {
+        "Month":254,
+        "France Inflation (%)":1.141783708,
+        "US Inflation (%)":0.8111239861
+    },
+    {
+        "Month":255,
+        "France Inflation (%)":0.9407323518,
+        "US Inflation (%)":1.0344827586
+    },
+    {
+        "Month":256,
+        "France Inflation (%)":0.9319650551,
+        "US Inflation (%)":0.6825938567
+    },
+    {
+        "Month":257,
+        "France Inflation (%)":1.3850520588,
+        "US Inflation (%)":0.6779661017
+    },
+    {
+        "Month":258,
+        "France Inflation (%)":0.9107453682,
+        "US Inflation (%)":0.785634119
+    },
+    {
+        "Month":259,
+        "France Inflation (%)":0.9927855894,
+        "US Inflation (%)":0.8908685969
+    },
+    {
+        "Month":260,
+        "France Inflation (%)":1.6979345338,
+        "US Inflation (%)":1.1037527594
+    },
+    {
+        "Month":261,
+        "France Inflation (%)":1.23023137,
+        "US Inflation (%)":0.7641921397
+    },
+    {
+        "Month":262,
+        "France Inflation (%)":1.1284681017,
+        "US Inflation (%)":0.9750812568
+    },
+    {
+        "Month":263,
+        "France Inflation (%)":1.2875633699,
+        "US Inflation (%)":0.2145922747
+    },
+    {
+        "Month":264,
+        "France Inflation (%)":0.8474562594,
+        "US Inflation (%)":0.3211991435
+    },
+    {
+        "Month":265,
+        "France Inflation (%)":0.5882366389,
+        "US Inflation (%)":0.3201707577
+    },
+    {
+        "Month":266,
+        "France Inflation (%)":1.0860444291,
+        "US Inflation (%)":0.3191489362
+    },
+    {
+        "Month":267,
+        "France Inflation (%)":0.9917249827,
+        "US Inflation (%)":0.3181336161
+    },
+    {
+        "Month":268,
+        "France Inflation (%)":1.2275052363,
+        "US Inflation (%)":-0.1057082452
+    },
+    {
+        "Month":269,
+        "France Inflation (%)":1.1317730437,
+        "US Inflation (%)":0.4232804233
+    },
+    {
+        "Month":270,
+        "France Inflation (%)":0.7993592426,
+        "US Inflation (%)":0.9483667018
+    },
+    {
+        "Month":271,
+        "France Inflation (%)":0.7137116739,
+        "US Inflation (%)":1.2526096033
+    },
+    {
+        "Month":272,
+        "France Inflation (%)":0.314964442,
+        "US Inflation (%)":0.5154639175
+    },
+    {
+        "Month":273,
+        "France Inflation (%)":0.3139755307,
+        "US Inflation (%)":0.2051282051
+    },
+    {
+        "Month":274,
+        "France Inflation (%)":0.3912250466,
+        "US Inflation (%)":0.2047082907
+    },
+    {
+        "Month":275,
+        "France Inflation (%)":0.545597581,
+        "US Inflation (%)":0.3064351379
+    },
+    {
+        "Month":276,
+        "France Inflation (%)":0.9302438387,
+        "US Inflation (%)":-0.2036659878
+    },
+    {
+        "Month":277,
+        "France Inflation (%)":0.8448381023,
+        "US Inflation (%)":-0.4081632653
+    },
+    {
+        "Month":278,
+        "France Inflation (%)":0.9901162426,
+        "US Inflation (%)":0.2049180328
+    },
+    {
+        "Month":279,
+        "France Inflation (%)":0.6787257903,
+        "US Inflation (%)":0.1022494888
+    },
+    {
+        "Month":280,
+        "France Inflation (%)":0.9737792453,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":281,
+        "France Inflation (%)":1.2611277312,
+        "US Inflation (%)":0.7150153218
+    },
+    {
+        "Month":282,
+        "France Inflation (%)":0.6593536254,
+        "US Inflation (%)":0.6085192698
+    },
+    {
+        "Month":283,
+        "France Inflation (%)":0.5822288047,
+        "US Inflation (%)":0.3024193548
+    },
+    {
+        "Month":284,
+        "France Inflation (%)":0.8682976284,
+        "US Inflation (%)":0.4020100503
+    },
+    {
+        "Month":285,
+        "France Inflation (%)":0.5738950919,
+        "US Inflation (%)":0.3003003003
+    },
+    {
+        "Month":286,
+        "France Inflation (%)":0.7845981023,
+        "US Inflation (%)":0.499001996
+    },
+    {
+        "Month":287,
+        "France Inflation (%)":0.7784900839,
+        "US Inflation (%)":0.2979145978
+    },
+    {
+        "Month":288,
+        "France Inflation (%)":0.4213438335,
+        "US Inflation (%)":0.198019802
+    },
+    {
+        "Month":289,
+        "France Inflation (%)":0.34965933,
+        "US Inflation (%)":0.0988142292
+    },
+    {
+        "Month":290,
+        "France Inflation (%)":0.6968629885,
+        "US Inflation (%)":0.5923000987
+    },
+    {
+        "Month":291,
+        "France Inflation (%)":0.6228307253,
+        "US Inflation (%)":0.4906771344
+    },
+    {
+        "Month":292,
+        "France Inflation (%)":0.687756854,
+        "US Inflation (%)":0.1953125
+    },
+    {
+        "Month":293,
+        "France Inflation (%)":0.6147475867,
+        "US Inflation (%)":0.4873294347
+    },
+    {
+        "Month":294,
+        "France Inflation (%)":0.5431158961,
+        "US Inflation (%)":0.2909796314
+    },
+    {
+        "Month":295,
+        "France Inflation (%)":0.4726547288,
+        "US Inflation (%)":0.2901353965
+    },
+    {
+        "Month":296,
+        "France Inflation (%)":0.6720419786,
+        "US Inflation (%)":0.3857280617
+    },
+    {
+        "Month":297,
+        "France Inflation (%)":0.5340336824,
+        "US Inflation (%)":0.3842459174
+    },
+    {
+        "Month":298,
+        "France Inflation (%)":0.4648266533,
+        "US Inflation (%)":0.4784688995
+    },
+    {
+        "Month":299,
+        "France Inflation (%)":0.660937475,
+        "US Inflation (%)":0.2857142857
+    },
+    {
+        "Month":300,
+        "France Inflation (%)":0.3282899555,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":301,
+        "France Inflation (%)":0.1963330044,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":302,
+        "France Inflation (%)":0.5225406286,
+        "US Inflation (%)":0.1899335233
+    },
+    {
+        "Month":303,
+        "France Inflation (%)":0.5198243352,
+        "US Inflation (%)":0.4739336493
+    },
+    {
+        "Month":304,
+        "France Inflation (%)":0.7110402041,
+        "US Inflation (%)":0.3773584906
+    },
+    {
+        "Month":305,
+        "France Inflation (%)":0.7060375791,
+        "US Inflation (%)":0.469924812
+    },
+    {
+        "Month":306,
+        "France Inflation (%)":0.5098850704,
+        "US Inflation (%)":0.374181478
+    },
+    {
+        "Month":307,
+        "France Inflation (%)":0.3804651978,
+        "US Inflation (%)":0.2795899348
+    },
+    {
+        "Month":308,
+        "France Inflation (%)":0.3790231466,
+        "US Inflation (%)":0.1858736059
+    },
+    {
+        "Month":309,
+        "France Inflation (%)":0.1258754094,
+        "US Inflation (%)":0.185528757
+    },
+    {
+        "Month":310,
+        "France Inflation (%)":0.1257000627,
+        "US Inflation (%)":0.2777777778
+    },
+    {
+        "Month":311,
+        "France Inflation (%)":0.313864179,
+        "US Inflation (%)":0.3693444137
+    },
+    {
+        "Month":312,
+        "France Inflation (%)":0.1877497222,
+        "US Inflation (%)":0.2759889604
+    },
+    {
+        "Month":313,
+        "France Inflation (%)":0.1249149292,
+        "US Inflation (%)":0.2752293578
+    },
+    {
+        "Month":314,
+        "France Inflation (%)":0.0623880291,
+        "US Inflation (%)":0.274473925
+    },
+    {
+        "Month":315,
+        "France Inflation (%)":-0.2493795617,
+        "US Inflation (%)":-0.2737226277
+    },
+    {
+        "Month":316,
+        "France Inflation (%)":0.2500030181,
+        "US Inflation (%)":-0.4574565416
+    },
+    {
+        "Month":317,
+        "France Inflation (%)":0.374060862,
+        "US Inflation (%)":-0.1838235294
+    },
+    {
+        "Month":318,
+        "France Inflation (%)":0.2484502067,
+        "US Inflation (%)":0.2762430939
+    },
+    {
+        "Month":319,
+        "France Inflation (%)":0.3097804348,
+        "US Inflation (%)":0.5509641873
+    },
+    {
+        "Month":320,
+        "France Inflation (%)":0.1235429469,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":321,
+        "France Inflation (%)":0.1233737234,
+        "US Inflation (%)":0.1826484018
+    },
+    {
+        "Month":322,
+        "France Inflation (%)":0.3696818631,
+        "US Inflation (%)":0.4557885141
+    },
+    {
+        "Month":323,
+        "France Inflation (%)":0.2455524002,
+        "US Inflation (%)":0.0907441016
+    },
+    {
+        "Month":324,
+        "France Inflation (%)":0.1224837886,
+        "US Inflation (%)":0.0906618314
+    },
+    {
+        "Month":325,
+        "France Inflation (%)":0.1223173098,
+        "US Inflation (%)":0.0905797101
+    },
+    {
+        "Month":326,
+        "France Inflation (%)":0.9163172476,
+        "US Inflation (%)":0.6334841629
+    },
+    {
+        "Month":327,
+        "France Inflation (%)":0.181596129,
+        "US Inflation (%)":0.3597122302
+    },
+    {
+        "Month":328,
+        "France Inflation (%)":0.1208391573,
+        "US Inflation (%)":0.4480286738
+    },
+    {
+        "Month":329,
+        "France Inflation (%)":0.5431609531,
+        "US Inflation (%)":0.5352363961
+    },
+    {
+        "Month":330,
+        "France Inflation (%)":0.1800701076,
+        "US Inflation (%)":0.3549245785
+    },
+    {
+        "Month":331,
+        "France Inflation (%)":0.179746438,
+        "US Inflation (%)":0.3536693192
+    },
+    {
+        "Month":332,
+        "France Inflation (%)":0.239221059,
+        "US Inflation (%)":0.2643171806
+    },
+    {
+        "Month":333,
+        "France Inflation (%)":0.2386663901,
+        "US Inflation (%)":0.5272407733
+    },
+    {
+        "Month":334,
+        "France Inflation (%)":0.0595285809,
+        "US Inflation (%)":0.5244755245
+    },
+    {
+        "Month":335,
+        "France Inflation (%)":0.2379564777,
+        "US Inflation (%)":0.2608695652
+    },
+    {
+        "Month":336,
+        "France Inflation (%)":0.1186877216,
+        "US Inflation (%)":0.0867302689
+    },
+    {
+        "Month":337,
+        "France Inflation (%)":0.0592815738,
+        "US Inflation (%)":0.0
+    },
+    {
+        "Month":338,
+        "France Inflation (%)":0.1777232375,
+        "US Inflation (%)":0.259965338
+    },
+    {
+        "Month":339,
+        "France Inflation (%)":0.1774079424,
+        "US Inflation (%)":0.2592912705
+    },
+    {
+        "Month":340,
+        "France Inflation (%)":0.29516698,
+        "US Inflation (%)":0.4310344828
+    },
+    {
+        "Month":341,
+        "France Inflation (%)":0.4708548758,
+        "US Inflation (%)":0.5150214592
+    },
+    {
+        "Month":342,
+        "France Inflation (%)":0.2343320803,
+        "US Inflation (%)":0.341588386
+    },
+    {
+        "Month":343,
+        "France Inflation (%)":0.2922342861,
+        "US Inflation (%)":0.4255319149
+    },
+    {
+        "Month":344,
+        "France Inflation (%)":0.3496466356,
+        "US Inflation (%)":0.4237288136
+    },
+    {
+        "Month":345,
+        "France Inflation (%)":0.2903517066,
+        "US Inflation (%)":0.4219409283
+    },
+    {
+        "Month":346,
+        "France Inflation (%)":0.2316183368,
+        "US Inflation (%)":0.6722689076
+    },
+    {
+        "Month":347,
+        "France Inflation (%)":0.231083106,
+        "US Inflation (%)":0.3338898164
+    },
+    {
+        "Month":348,
+        "France Inflation (%)":0.1152830118,
+        "US Inflation (%)":0.0831946755
+    },
+    {
+        "Month":349,
+        "France Inflation (%)":0.1727097322,
+        "US Inflation (%)":0.1662510391
+    },
+    {
+        "Month":350,
+        "France Inflation (%)":0.4022997851,
+        "US Inflation (%)":0.4979253112
+    },
+    {
+        "Month":351,
+        "France Inflation (%)":0.2861966862,
+        "US Inflation (%)":0.4128819158
+    },
+    {
+        "Month":352,
+        "France Inflation (%)":0.2853954666,
+        "US Inflation (%)":0.5756578947
+    },
+    {
+        "Month":353,
+        "France Inflation (%)":0.6260553419,
+        "US Inflation (%)":0.6541291905
+    },
+    {
+        "Month":354,
+        "France Inflation (%)":0.3959285679,
+        "US Inflation (%)":0.5686433794
+    },
+    {
+        "Month":355,
+        "France Inflation (%)":0.1126850886,
+        "US Inflation (%)":0.2423263328
+    },
+    {
+        "Month":356,
+        "France Inflation (%)":0.2813803206,
+        "US Inflation (%)":0.2417405318
+    },
+    {
+        "Month":357,
+        "France Inflation (%)":0.1683331023,
+        "US Inflation (%)":0.1607717042
+    },
+    {
+        "Month":358,
+        "France Inflation (%)":0.2240923596,
+        "US Inflation (%)":0.3210272873
+    },
+    {
+        "Month":359,
+        "France Inflation (%)":0.4471826172,
+        "US Inflation (%)":0.48
+    },
+    {
+        "Month":360,
+        "France Inflation (%)":0.166943139,
+        "US Inflation (%)":0.2388535032
+    },
+    {
+        "Month":361,
+        "France Inflation (%)":0.1111048975,
+        "US Inflation (%)":0.1588562351
+    },
+    {
+        "Month":362,
+        "France Inflation (%)":0.2774766249,
+        "US Inflation (%)":1.0309278351
+    },
+    {
+        "Month":363,
+        "France Inflation (%)":0.2107798856,
+        "US Inflation (%)":0.4709576138
+    },
+    {
+        "Month":364,
+        "France Inflation (%)":0.2403846154,
+        "US Inflation (%)":0.546875
+    },
+    {
+        "Month":365,
+        "France Inflation (%)":0.5545563549,
+        "US Inflation (%)":0.1554001554
+    },
+    {
+        "Month":366,
+        "France Inflation (%)":0.1490535102,
+        "US Inflation (%)":0.232738557
+    },
+    {
+        "Month":367,
+        "France Inflation (%)":-0.0148831671,
+        "US Inflation (%)":0.5417956656
+    },
+    {
+        "Month":368,
+        "France Inflation (%)":0.0297707651,
+        "US Inflation (%)":0.3849114704
+    },
+    {
+        "Month":369,
+        "France Inflation (%)":0.6547619048,
+        "US Inflation (%)":0.9202453988
+    },
+    {
+        "Month":370,
+        "France Inflation (%)":0.7096392667,
+        "US Inflation (%)":0.8358662614
+    },
+    {
+        "Month":371,
+        "France Inflation (%)":0.4403992954,
+        "US Inflation (%)":0.6028636021
+    },
+    {
+        "Month":372,
+        "France Inflation (%)":-0.1607717042,
+        "US Inflation (%)":0.2247191011
+    },
+    {
+        "Month":373,
+        "France Inflation (%)":-0.0731957254,
+        "US Inflation (%)":0.0
+    }
+]
